@@ -1,6 +1,6 @@
 # 🎲 Jogo de Dados
 
-Joga contra o CPU! Cada um lança **2 dados** por ronda. O mais alto ganha.
+Joga contra o CPU! Cada um lança **2 dados** por ronda. O valor mais alto ganha.
 
 ## 📜 Regras
 
